@@ -1,0 +1,50 @@
+@charset "utf-8";
+nav { 
+	background-color: #D02AE7;
+	width: 600px;
+    height: 100px;
+    border: 1px pink;
+    box-sizing: border-box;
+	text-align: center;
+	Justify-content: center;
+}
+
+li{
+	display: inline;
+}
+	body { 
+    background: #E6aff8 url("smiley.gif") no-repeat fixed center; 
+    font-family: "Lucida Handwriting", Georgia, Serif;
+	font-size: 28px;
+	text-align: center;
+	text-decoration: none;
+}
+    img  {
+    float: Center;
+    background:url(img_flwr.gif);
+    background-repeat: no-repeat;
+    padding:35px;
+    background-origin: content-box;
+}
+
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+		
+	
+		
+	
+	
+
+	
+	
